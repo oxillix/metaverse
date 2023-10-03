@@ -95,4 +95,6 @@ leading (line height) of an element, which in the context of text means the spac
 ```
 
 ### Review of the tutorial
-This tutorial is great for frontend developers who have intermediate to novice experience and are keen to dive into topics like tailwind arbitrary values and framer motion. A word of caution: while the tutor adeptly codes in real-time, there's a tendency to narrate actions rather than delve into the underlying reasoning or mechanics. So, it's imperative to actively engage, question the code, and delve deeper when concepts seem unclear. If approached with this mindset, expect to invest at least three times the tutorial's length in time and research.
+This tutorial is for frontend developers who have intermediate to novice experience and are keen to dive into topics like tailwind arbitrary values and framer motion. A word of caution: while the tutor adeptly codes in real-time, there's a tendency to narrate actions rather than delve into the underlying reasoning or mechanics. So, it's imperative to actively engage, question the code, and delve deeper when concepts seem unclear. If approached with this mindset, expect to invest at least three times the tutorial's length in time and research.
+
+I rate this tutorial 2/5, would instead recommend [Code With Antonio](https://www.youtube.com/@codewithantonio) for builds with a more in depth explanation.
