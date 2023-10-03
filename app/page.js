@@ -11,7 +11,7 @@ import {
 } from "../sections";
 
 const Page = () => (
-  <div className="bg-primary-black overflow-hidden">
+  <div className="bg-primary-black overflow-hidden z-1">
     <div className="flex flex-col gap-2 flex-1 text-white justify-center items-center text-center py-4 px-2 border-b-2 bg-black/40 border-[#787878]">
       <span className="text-xl">
         👨‍💻 Check out the source code{" "}
