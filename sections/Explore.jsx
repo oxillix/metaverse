@@ -11,7 +11,6 @@ import {
   fadeIn,
 } from "../utils/motion";
 import { ExploreCard, TitleText, TypingText } from "../components";
-
 import { exploreWorlds } from "../constants";
 
 const Explore = () => {
